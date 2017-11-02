@@ -1,14 +1,14 @@
 ﻿# 站点信息
-title: 少年不知愁滋味
-author: chmyun
-email: hcy2367@163.com
+title: 人世间
+author: cyf0611
+email: cao942789776@gmail.com
 keywords: 'blog, github pages, jekyll, markdown, liquid, chmyun'
-description: 'chmyun的博客-少年不知愁滋味。人生若只是初见, 何事悲风秋画扇; 你若安好，便是晴天.'
-sinaweibo: http://weibo.com/hcy2367
+description: 'cyf0611的博客-因上努力，果上随缘。'
+sinaweibo: http://weibo.com/cyf0611
 baseurl: '' # 网站的根路径 /blog/
 # url: http://localhost:4000
-url: http://hcy2367.github.io
-github_username: hcy2367
+url: http://cyf0611.github.io
+github_username: cyf0611
 
 # markdown解析器，kramdown比较新，maruku比较旧
 markdown: kramdown
@@ -53,7 +53,7 @@ future: true
 lsi: false
 
 # production_url是sitemap.txt生成的url，方便百度谷歌收录
-production_url: http://hcy2367.github.io
+production_url: http://cyf0611.github.io
 
 #菜单配置
 nav:
@@ -68,9 +68,9 @@ nav:
   # - text: 博客园
   #   url: http://www.cnblogs.com/cyStyle/
   #   target: _blank
-  - text: 博客源代码
-    url: https://github.com/hcy2367/hcy2367.github.io
-    target: _blank
+#  - text: 博客源代码
+#    url: https://github.com/cyf0611/cyf0611.github.io
+#    target: _blank
 
 # 多说评论
 # comments:
