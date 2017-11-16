@@ -18,7 +18,7 @@ permalink: /tag/
             {% for post in tag[1] %}
             <li>
                 <strong><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></strong>
-                <span>{{ post.date | date_to_string }}</span>
+                <span>{{ post.date | date: "%Y年%m月%d日" }}</span>
             </li>
             {% endfor %}
         </ul>
